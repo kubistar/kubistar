@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubistar&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubistar&layout=compact)
+
 
 ### 🕹️Github Activity
 <a href="https://github.com/devxb/gitanimals">
