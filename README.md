@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubistar&show_icons=true&theme=transparent)
+
+
 ### 🕹️Github Activity
 <a href="https://github.com/devxb/gitanimals">
 <img
